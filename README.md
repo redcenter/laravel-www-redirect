@@ -25,6 +25,6 @@ You can contact me through my website: redcenter.nl
 
 ##### Good bye!
 
-Check out the documentation on Bitbucket for all details!
+Check out the documentation on GitLab for all details!
 
 https://gitlab.com/redcenter/laravel-www-redirect
